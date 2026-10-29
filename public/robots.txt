@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /buyer/
+Disallow: /exhibitor/
+Disallow: /organizer/
+
+Sitemap: https://exhilink.ai/sitemap.xml
